@@ -2,7 +2,7 @@
 
 一些用 Python 写的小游戏，适合新手入门。
 
-代码里标了作者：九歌，但是找了下没有找到对应的开源地址，有知道的小伙伴可以提交个 pr，我补充下~
+整理自互联网，代码里标了作者：九歌，但是找了下没有找到对应的开源地址，有知道的小伙伴可以提交个 pr，我补充下~
 
 <p align="center">
   <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
