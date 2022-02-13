@@ -1,5 +1,9 @@
 # PythonGame
 
+一些用 Python 写的小游戏，适合新手入门。
+
+这些代码都是收集整理自互联网，很多都找不到最初的开源地址了，有知道的可以提 pr，我来添加来源标注。
+
 <p align="center">
   <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Jack%20Cui-lightgrey.svg" alt="公众号"></a>
