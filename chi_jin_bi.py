@@ -9,7 +9,6 @@ from modules import *
 吃金币小游戏
 """
  
- 
 '''游戏初始化'''
 def initGame():
     # 初始化pygame, 设置展示窗口
