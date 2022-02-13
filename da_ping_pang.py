@@ -8,7 +8,6 @@ from modules import *
 打乒乓球小游戏
 """
  
- 
 '''定义按钮'''
 def Button(screen, position, text, button_size=(200, 50)):
     left, top = position
